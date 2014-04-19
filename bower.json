@@ -4,5 +4,5 @@
   "main": ["./mopidy.js", "./mopidy.min.js"],
   "ignore": [
     "**/*.md"
-  ],
+  ]
 }
