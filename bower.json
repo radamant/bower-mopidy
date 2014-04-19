@@ -1,0 +1,8 @@
+{
+  "name": "mopidy",
+  "version": "0.18.3",
+  "main": ["./mopidy.js", "./mopidy.min.js"],
+  "ignore": [
+    "**/*.md"
+  ],
+}
